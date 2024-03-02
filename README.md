@@ -7,6 +7,7 @@ Software Engineer | Data Scientist | AI engineer
 Enthusiastic Software Engineering student at NUST with a keen interest in AI and a passion for astrophysics. Proficient in Machine Learning, Deep Learning, Computer Vision, and NLP. Eager to apply AI advancements to revolutionize agriculture, astronomy, healthcare, and education sectors, aiming to make a meaningful impact on society.
 
 * 🌍  I'm based in Rawalpindi
+* 🖥️  See my portfolio at [Here](http://https://mrnust.github.io/rayyan-physicist.github.io/)
 * ✉️  You can contact me at [m18rayyan@gmail.com](mailto:m18rayyan@gmail.com)
 * 🧠  I'm learning NLP and Generative AI .
 * 🤝  I'm open to collaborating on AI and Data science related projects including Machine & Deep learning, Computer vision and NLP.
