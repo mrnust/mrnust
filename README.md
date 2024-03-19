@@ -9,8 +9,7 @@ Enthusiastic Software Engineering student at NUST with a keen interest in AI and
 * 🌍  I'm based in Rawalpindi
 * 🖥️  See my portfolio at [Here](http://mrnust.github.io/rayyan-physicist.github.io/)
 * ✉️  You can contact me at [m18rayyan@gmail.com](mailto:m18rayyan@gmail.com)
-* 🧠  I'm learning NLP and Generative AI .
-* 🤝  I'm open to collaborating on AI and Data science related projects including Machine & Deep learning, Computer vision and NLP.
+* 🤝  I'm open to collaborating on AI and Data science related projects including Machine & Deep learning, Computer vision, NLP and Generative AI.
 
 ### Skills
 
