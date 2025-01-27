@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Deep Learning & AI Research 
 ------------------------------------------------
 
-Enthusiastic Software Engineering student at NUST with a keen interest in AI and a passion for astrophysics. Proficient in Machine Learning, Deep Learning, Computer Vision, and NLP. Eager to apply AI advancements to revolutionize agriculture, astronomy, healthcare, and education sectors, aiming to make a meaningful impact on society.
+Enthusiastic Software Engineering student at NUST with a passion for **Artificial Intelligence**, and keen interest in **Physics** and **Cognitive Science**. Proficient in Machine Learning, Deep Learning, Computer Vision, and NLP. Eager to apply AI advancements to revolutionize agriculture, astronomy, healthcare, and education sectors, aiming to make a meaningful impact on society.
 
-* 🌍  I'm based in Rawalpindi
 * 🖥️  See my portfolio at [Here](http://mrnust.github.io/rayyan-physicist.github.io/)
 * ✉️  You can contact me at [m18rayyan@gmail.com](mailto:m18rayyan@gmail.com)
 * 🤝  I'm open to collaborating on Research and AI related projects including Machine & Deep learning, Computer vision, NLP, Generative and Agentic AI.
@@ -15,7 +14,6 @@ Enthusiastic Software Engineering student at NUST with a keen interest in AI and
 
 - Proposed **MHA-UNET**, an advanced architecture for **CT angiography**.  
   - **Performance**: Outperformed **nnUNET** and **Swin Transformer** in segmentation tasks.  
-    - Incorporating **GQA attention** to reduce complexity and enhance performance.  
     - Expanding to **multimodal inputs** (CT images + relevant tabular and textual data).  
 
 ---
@@ -23,7 +21,7 @@ Enthusiastic Software Engineering student at NUST with a keen interest in AI and
 - Proposed **ExCNET**, a compact and efficient architecture for image:  
   - Integrated **Squeeze-and-Excitation (SE) blocks** for better feature extraction.  
   - Used **Batch Normalization** in between to improve model stability and training.  
-  - Beating  complex architectures like **Deep-CNN** , **ResNet-50** while maintaining a smaller model size.  
+  - Beating  complex architectures like **Deep-CNN** , **ResNet-50**, **ViT** while maintaining a smaller model size of 8M.  
 
 ---
 
@@ -40,7 +38,7 @@ Enthusiastic Software Engineering student at NUST with a keen interest in AI and
 
 ---
 
-- Studying pretrained **LLMs** for multi-class classification on tabular datasets.  
+- Studying pretrained **LLMs** on tabular Data.  
   - Achieved better-than-expected performance with emergent behavior in predictions.  
   - While LLMs show promise, statistical models still outperform in certain structured data tasks.  
 
