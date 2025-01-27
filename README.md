@@ -28,8 +28,8 @@ Enthusiastic Software Engineering student at NUST with a keen interest in AI and
 ---
 
 - Evaluated open-source **LLMs** for **Text-to-SQL** tasks.  
-  - Observed **Llama 3.3 70B** outperforming **Mistral LLMs** in generating complex queries.  
-  - When using **Llama 3.3 405B** as a judge, system performance was further enhanced.  
+  - Observed **Llama 3.1 70B** outperforming **Mistral LLMs** in generating complex queries.  
+  - When using **Llama 3.1 405B** as a judge, system performance was further enhanced.  
 
 ---
 
@@ -46,11 +46,8 @@ Enthusiastic Software Engineering student at NUST with a keen interest in AI and
 
 ---
 
-
 - Investigated the role of **Reinforcement Learning (RL)** in improving LLM reasoning capabilities:  
-  - Explored **RL-based feedback mechanisms** for post-training optimization.  
-  - Highlighting the effectiveness of **RL for SFT (Supervised Fine-Tuning)** data gathering.  
-  - Future direction: Scaling RL methods to achieve more robust performance improvements.  
+  - Exploring **RL-based feedback mechanisms** for post-training optimization and its effectiveness for SFT (Supervised Fine-Tuning) data gathering and how scaling RL methods helps to achieve more robust performance improvements.  
 
 ---
 
