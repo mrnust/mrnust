@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Rayyan
 =======================================================================================================================================
 
-Software Engineer | Data Scientist | AI engineer
+Deep Learning & AI Research 
 ------------------------------------------------
 
 Enthusiastic Software Engineering student at NUST with a keen interest in AI and a passion for astrophysics. Proficient in Machine Learning, Deep Learning, Computer Vision, and NLP. Eager to apply AI advancements to revolutionize agriculture, astronomy, healthcare, and education sectors, aiming to make a meaningful impact on society.
@@ -9,7 +9,54 @@ Enthusiastic Software Engineering student at NUST with a keen interest in AI and
 * 🌍  I'm based in Rawalpindi
 * 🖥️  See my portfolio at [Here](http://mrnust.github.io/rayyan-physicist.github.io/)
 * ✉️  You can contact me at [m18rayyan@gmail.com](mailto:m18rayyan@gmail.com)
-* 🤝  I'm open to collaborating on AI and Data science related projects including Machine & Deep learning, Computer vision, NLP and Generative AI.
+* 🤝  I'm open to collaborating on Research and AI related projects including Machine & Deep learning, Computer vision, NLP, Generative and Agentic AI.
+
+## **🔬 Research Highlights**
+
+- Proposed **MHA-UNET**, an advanced architecture for **CT angiography**.  
+  - **Performance**: Outperformed **nnUNET** and **Swin Transformer** in segmentation tasks.  
+    - Incorporating **GQA attention** to reduce complexity and enhance performance.  
+    - Expanding to **multimodal inputs** (CT images + relevant tabular and textual data).  
+
+---
+
+- Proposed **ExCNET**, a compact and efficient architecture for image:  
+  - Integrated **Squeeze-and-Excitation (SE) blocks** for better feature extraction.  
+  - Used **Batch Normalization** in between to improve model stability and training.  
+  - Beating  complex architectures like **Deep-CNN** , **ResNet-50** while maintaining a smaller model size.  
+
+---
+
+- Evaluated open-source **LLMs** for **Text-to-SQL** tasks.  
+  - Observed **Llama 3.3 70B** outperforming **Mistral LLMs** in generating complex queries.  
+  - When using **Llama 3.3 405B** as a judge, system performance was further enhanced.  
+
+---
+
+- Researching reasoning capabilities in **Multimodal LLMs** on medical datasets.  
+  - Demonstrated strong reasoning and **in-context learning** performance on pneumonia X-ray images.  
+  - Achieved better-than-expected results by exploring **Chain-of-Thought (CoT)** techniques.  
+  - Investigating other techniques like **Tree-of-Thought (ToT)**, etc to enable **self-correction** in multimodal models.  
+
+---
+
+- Studying pretrained **LLMs** for multi-class classification on tabular datasets.  
+  - Achieved better-than-expected performance with emergent behavior in predictions.  
+  - While LLMs show promise, statistical models still outperform in certain structured data tasks.  
+
+---
+
+
+- Investigated the role of **Reinforcement Learning (RL)** in improving LLM reasoning capabilities:  
+  - Explored **RL-based feedback mechanisms** for post-training optimization.  
+  - Highlighting the effectiveness of **RL for SFT (Supervised Fine-Tuning)** data gathering.  
+  - Future direction: Scaling RL methods to achieve more robust performance improvements.  
+
+---
+
+## **🚀 Current & Future Research directions**
+- Enhancing the reasoning capabilities of LLMs, VLMS, and multimodal systems by further exploring Reasoning techniques and exploring how effectively Reinforcement Learning can help in achieveing goals.
+
 
 ### Skills
 
